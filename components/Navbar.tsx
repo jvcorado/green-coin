@@ -34,9 +34,9 @@ const Navbar = () => {
         <Link href="/" className="flex items-center space-x-2">
           <Logo />
           <span className="font-semibold text-xl md:text-2xl">
-            <span className="text-[#22c55e]">Green</span>
+            <span className="text-[#22c55e]">X</span>
             <span className="text-neutral-700 dark:text-neutral-300">
-              Coins
+              MOEDAS
             </span>
           </span>
         </Link>
@@ -83,7 +83,7 @@ const Navbar = () => {
               Read the Whitepaper
             </Link>
             <Button className="bg-[#22c55e] hover:bg-[#1ea750] text-white">
-              Buy GreenCoin
+              Buy XMOEDAS
             </Button>
           </div>
         </nav>

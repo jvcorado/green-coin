@@ -96,8 +96,8 @@ const Hero = () => {
             <div className="flex items-center space-x-2">
               <Logo />
               <span className="font-semibold text-xl md:text-2xl">
-                <span className="text-[#22c55e]">Green</span>
-                <span className="text-neutral-700">Coins</span>
+                <span className="text-[#22c55e]">X</span>
+                <span className="text-neutral-700">MOEDAS</span>
               </span>
             </div>
 
